@@ -49,3 +49,6 @@ left as 2 3 2 3 -1.
 
 How many steps does it now take to reach the exit?
 
+Your puzzle answer was 26395586.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
