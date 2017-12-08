@@ -54,3 +54,7 @@ For example:
     12131415 produces 4.
 
 What is the solution to your new captcha?
+
+Your puzzle answer was 1358.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
