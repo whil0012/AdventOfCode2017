@@ -35,3 +35,6 @@ In this example, the exit is reached in 5 steps.
 
 How many steps does it take to reach the exit?
 
+Your puzzle answer was 373160.
+
+The first half of this puzzle is complete! It provides one gold star: *
