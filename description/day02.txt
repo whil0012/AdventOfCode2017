@@ -21,3 +21,7 @@ For example, given the following spreadsheet:
 In this example, the spreadsheet's checksum would be 8 + 4 + 6 = 18.
 
 What is the checksum for the spreadsheet in your puzzle input?
+
+Your puzzle answer was 51139.
+
+The first half of this puzzle is complete! It provides one gold star: *
