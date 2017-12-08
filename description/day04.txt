@@ -12,3 +12,8 @@ For example:
     aa bb cc dd aaa is valid - aa and aaa count as different words.
 
 The system's full passphrase list is available as your puzzle input. How many passphrases are valid?
+
+Your puzzle answer was 386.
+
+The first half of this puzzle is complete! It provides one gold star: *
+
