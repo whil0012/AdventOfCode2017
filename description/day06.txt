@@ -38,3 +38,7 @@ the fifth block redistribution cycle, and so the answer in this example is 5.
 
 Given the initial block counts in your puzzle input, how many redistribution cycles must be completed before a
 configuration is produced that has been seen before?
+
+Your puzzle answer was 14029.
+
+The first half of this puzzle is complete! It provides one gold star: *
