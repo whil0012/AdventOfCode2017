@@ -1,5 +1,4 @@
 import unittest
-import os
 from operator import itemgetter
 from input_utilities.inputfilepath import get_input_file_path
 from collections import namedtuple
