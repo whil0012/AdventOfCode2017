@@ -51,3 +51,7 @@ seen, how many block redistribution cycles must be performed before that same st
 In the example above, 2 4 1 2 is seen again after four cycles, and so the answer in that example would be 4.
 
 How many cycles are in the infinite loop that arises from the configuration in your puzzle input?
+
+Your puzzle answer was 2765.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
