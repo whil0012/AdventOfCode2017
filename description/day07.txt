@@ -84,3 +84,7 @@ are balanced, ugml itself is too heavy: it needs to be 8 units lighter for its s
 balanced. If this change were made, its weight would be 60.
 
 Given that exactly one program is the wrong weight, what would its weight need to be to balance the entire tower?
+
+Your puzzle answer was 802.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
