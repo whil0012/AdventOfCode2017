@@ -79,9 +79,9 @@ class TestDay07(unittest.TestCase):
         self.set_up_children_nodes(child_nodes_1[0], child_nodes_1_2)
         self.set_up_children_nodes(child_nodes_2[0], child_nodes_2_2)
         self.set_up_children_nodes(child_nodes_3[0], child_nodes_3_2)
-        expected_weights = [152, 172, 265]
+        expected_weights = {'jovejmr':152, 'sdfxsnj':172, 'weyts':265}
         actual_weights = calculate_child_branch_weights(parent_nodes[0])
-        self.assertListEqual(sorted(actual_weights), sorted(expected_weights))
+        self.assertDictEqual(actual_weights, expected_weights)
 
 
 def create_node(node_description):
