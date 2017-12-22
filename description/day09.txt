@@ -50,3 +50,5 @@ the score of the group that immediately contains it. (The outermost group gets a
     {{<a!>},{<a!>},{<a!>},{<ab>}}, score of 1 + 2 = 3.
 
 What is the total score for all groups in your input?
+
+Your puzzle answer was 10800.
