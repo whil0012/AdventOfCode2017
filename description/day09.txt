@@ -69,3 +69,7 @@ don't count, nor do any canceled characters or the ! doing the canceling.
 
 How many non-canceled characters are within the garbage in your puzzle input?
 
+Your puzzle answer was 4522.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
