@@ -252,13 +252,19 @@ def get_register_operand(instruction_parts):
 
 def main():
     registers = {}
+    max_register_value_ever = 0
     file_path = get_input_file_path('day08.txt')
     with open(file_path, 'r') as input_file:
         for line in input_file:
             instruction = create_instruction(line.strip())
             process_instruction(instruction, registers)
+            if len(registers.values()) > 0:
+                max_register_value = max(registers.values())
+                if max_register_value > max_register_value_ever:
+                    max_register_value_ever = max_register_value
     max_register_value = max(registers.values())
-    print("max register value: ", max_register_value)
+    print('max register value: ', max_register_value)
+    print('max register value ever: ', max_register_value_ever)
 
 
 if __name__ == '__main__':
