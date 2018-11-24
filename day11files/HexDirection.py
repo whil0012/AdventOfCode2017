@@ -7,4 +7,4 @@ class HexDirection(Enum):
     SouthEast = auto()
     South = auto()
     SouthWest = auto()
-    NortWest = auto()
+    NorthWest = auto()
